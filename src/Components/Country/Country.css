@@ -1,0 +1,17 @@
+.country {
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 5px 5px 15px gray;
+}
+.country img {
+  width: 150px;
+  height: 100px;
+}
+.country button {
+  background-color: rgb(2, 253, 127);
+  border: none;
+  padding: 8px 37px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px gray;
+  cursor: pointer;
+}
